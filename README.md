@@ -1,22 +1,5 @@
 # Hi, I'm Jesús Moncada-Ramírez 👋
 
-I am a **Computer and Mechatronics Engineer** and current **Research Associate** at the [Machine Perception and Intelligent Robotics (MAPIR) group](https://mapir.isa.uma.es/), University of Málaga. My work focuses on studying and developing **Computer Vision** and **Artificial Intelligence** methods to enhance the cognitive capabilities of mobile robots. 
-
-I combine solid academic training with practical software engineering experience.  
-My background includes:
-- **B.Sc. in Computer Engineering** (Univ. of Málaga, 2024).
-- Erasmus stay at **University of Padua, Italy**, specializing in Computer Vision, Robotics, and Natural Language Processing.  
-- **Master’s in Mechatronics Engineering** (Univ. of Málaga, 2025).
-- Fluent in **Spanish**, **English**, and **Italian**.
-
-I am passionate about **robotics research**, **backend development**, and integrating AI technologies into real-world applications.
-
----
-
-## 🌟 Featured Projects
-
-# Hi, I'm Jesús Moncada-Ramírez 👋
-
 I am a **Computer and Mechatronics Engineer** and current **Research Associate** at the [Machine Perception and Intelligent Robotics (MAPIR) group](https://mapir.isa.uma.es/), University of Málaga. My work focuses on studying and developing **Computer Vision** and **Artificial Intelligence** methods to enhance the cognitive capabilities of mobile robots.
 
 I combine solid academic training with practical software engineering experience.  
