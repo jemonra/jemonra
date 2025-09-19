@@ -44,13 +44,13 @@ I am passionate about **robotics research**, **backend development**, and integr
 
 - (2025) [llm-robotics-reflection](https://github.com/MAPIRlab/llm-robotics-reflection) – Research project and codebase for the paper *[Agentic Workflows for Improving LLM Reasoning in Robotic Object-Centered Planning](https://doi.org/10.3390/robotics14030024)*, published in *MDPI Robotics*. Provides the dataset, prompts, and Python implementation to evaluate agentic workflows—Self-Reflection, Multi-Agent Reflection, and LLM Ensemble— for improving Large Language Model reasoning in robotic object-centered planning. Experiments on semantic maps from ScanNet and SceneNN demonstrate significant gains in object retrieval accuracy, strengthening my skills in LLM prompting, agentic workflow design, and advanced AI–robotics integration.
 
-- (2025, under development) [rol_lm](https://github.com/MAPIRlab/ros_lm) – ROS 2 package designed to connect robotic systems with LLMs and Large Vision-Language Models (LVLMs) through a simple, unified service. The project provides an accessible way for robots to request text or vision-based reasoning from powerful generative models, making it easier to integrate state-of-the-art AI into real-world robotic applications. Working on this repository strengthened my skills in ROS 2 architecture, service design, and the practical integration of modern AI models within robotic platforms.
+- (2025) [generative-topological-maps](https://github.com/MAPIRlab/generative-topological-maps) – Framework for place segmentation, place categorization, and semantic object-relationship inference in pre-built 3D semantic maps. Developed as my Master’s Thesis in Mechatronics Engineering at the University of Málaga, this work introduces a geometric–semantic clustering pipeline and LLM/LVLM methods to create rich semantic-topological maps for mobile robots. Key results were published in the paper *Mobile Robot Place Segmentation and Categorization Using Object Semantics*, presented at the European Conference on Mobile Robots (ECMR) 2025, and fully detailed in my Master’s Thesis report. This project deepened my expertise in geometric–semantic mapping, LLM/LVLM integration, and the design of advanced pipelines for robotic reasoning.
 
-- [Generative Topological Maps](https://github.com/MAPIRlab/generative-topological-maps)
-- 
-- [ScanNet Tools](https://github.com/josematez/ScanNet)
-- 
-- [SceneNN Tools](https://github.com/josematez/SceneNN)
+- (2025, under active development) [rol_lm](https://github.com/MAPIRlab/ros_lm) – ROS 2 package designed to connect robotic systems with LLMs and Large Vision-Language Models (LVLMs) through a simple, unified service. The project provides an accessible way for robots to request text or vision-based reasoning from powerful generative models, making it easier to integrate state-of-the-art AI into real-world robotic applications. Working on this repository strengthened my skills in ROS 2 architecture, service design, and the practical integration of modern AI models within robotic platforms.
+
+- (2024, under development) [ScanNet](https://github.com/josematez/ScanNet) – Utilities to automatically download ScanNet sequences and create ready-to-use ROS1/ROS2 bag files for robotic experiments.
+
+- (2024, under development) [SceneNN](https://github.com/josematez/SceneNN) – Companion utilities for downloading SceneNN dataset sequences and generating ROS-compatible bag files for easy integration in robotics projects.
 
 ---
 
