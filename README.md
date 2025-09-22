@@ -1,15 +1,15 @@
 # Hi, I'm Jesús Moncada-Ramírez 👋
 
-I am a **Computer and Mechatronics Engineer** and current **Research Associate** at the [Machine Perception and Intelligent Robotics (MAPIR) group](https://mapir.isa.uma.es/), University of Málaga. My work focuses on studying and developing **Computer Vision** and **Artificial Intelligence** methods to enhance the cognitive capabilities of mobile robots.
+I am a **Computer and Mechatronics Engineer** and current **Research Associate** and **PhD student** at the [Machine Perception and Intelligent Robotics (MAPIR-UMA) group](https://mapir.isa.uma.es/), University of Málaga, Spain. My work focuses on studying and developing **Computer Vision** and **Artificial Intelligence** methods to enhance the cognitive capabilities of mobile robots.
 
 I combine solid academic training with practical software engineering experience.  
 My background includes:
-- **B.Sc. in Computer Engineering** ([University of Málaga](https://www.uma.es/), 2024).
-- Erasmus stay at [University of Padua, Italy](https://www.unipd.it/en/), specializing in Computer Vision, Robotics, and Natural Language Processing.  
-- **Master’s in Mechatronics Engineering** ([University of Málaga](https://www.uma.es/), 2025).
+- **B.Sc. in Computer Engineering** (University of Málaga, 2024).
+- **Erasmus stay at the University of Padua**, specializing in Computer Vision, Robotics, and Natural Language Processing.  
+- **Master’s in Mechatronics Engineering** (University of Málaga, 2025).
 - Fluent in **Spanish**, **English**, and **Italian**.
 
-My work is fueled by a strong passion for **computer vision**, **robotics**, **AI research**, and innovative software solutions, aiming to bridge advanced AI technologies with everyday applications.
+My work is driven by a deep passion for bringing advanced AI technologies into real-world applications that make everyday life better, from empowering mobile robots with richer perception and reasoning to creating intelligent systems that seamlessly support people in their daily activities.
 
 ---
 
