@@ -9,7 +9,7 @@ My background includes:
 - **Master’s in Mechatronics Engineering** ([University of Málaga](https://www.uma.es/), 2025).
 - Fluent in **Spanish**, **English**, and **Italian**.
 
-My work is fueled by a strong passion for robotics, AI exploration, and innovative software solutions, aiming to bridge advanced AI technologies with everyday applications.
+My work is fueled by a strong passion for **computer vision**, **robotics**, **AI research**, and innovative software solutions, aiming to bridge advanced AI technologies with everyday applications.
 
 ---
 
@@ -17,11 +17,19 @@ My work is fueled by a strong passion for robotics, AI exploration, and innovati
 
 ### During my Erasmus stay at the University of Padua, Italy
 
-- [ImageColouring](https://github.com/AlejandroCCaldero/ImageColouring) (2023) – Final project for the *Neural Networks and Deep Learning* course. A conditional GAN project using U-Net and PatchGAN to recolor grayscale images. It leverages LPIPS perceptual loss and a WGAN discriminator with gradient penalty to boost color realism and maintain stable training, achieving visually convincing results on a toy dataset. This work deepened my understanding of deep learning architectures, loss functions, and training stability techniques.
+- [ImageColouring](https://github.com/AlejandroCCaldero/ImageColouring) (2022) – Final project for the *Neural Networks and Deep Learning* course. A conditional GAN project using U-Net and PatchGAN to recolor grayscale images. It leverages LPIPS perceptual loss and a WGAN discriminator with gradient penalty to boost color realism and maintain stable training, achieving visually convincing results on a toy dataset. This work deepened my understanding of deep learning architectures, loss functions, and training stability techniques.
 
-- [tiago-pick-place-ir](https://github.com/jemonra/tiago-pick-place-ir) (2023) – Final project for the *Intelligent Robotics* course. Developed a set of ROS 2 nodes to perform a complete pick-and-place task with a simulated TIAGo mobile manipulator. The system navigates through the room, reaches designated locations, and controls the robot arm to grasp and place objects from a table, integrating navigation, perception, and manipulation in a single pipeline. This project strengthened my skills in ROS 2 development, robot motion planning, and the integration of navigation and manipulation tasks in mobile robotics.
+- [tiago-pick-place-ir](https://github.com/jemonra/tiago-pick-place-ir) (2022) – Final project for the *Intelligent Robotics* course. Developed a set of ROS 2 nodes to perform a complete pick-and-place task with a simulated TIAGo mobile manipulator. The system navigates through the room, reaches designated locations, and controls the robot arm to grasp and place objects from a table, integrating navigation, perception, and manipulation in a single pipeline. This project strengthened my skills in ROS 2 development, robot motion planning, and the integration of navigation and manipulation tasks in mobile robotics.
 
-- [malaga-bus-graph](https://github.com/jemonra/malaga-bus-graph) (2023) – Final project for the *Learning from Networks* course. Conducted a graph-based analysis of Málaga’s public bus transport system to study frequency, speed, and node centralities. Built a large, directed multi-graph of bus lines, stops, routes, and timetables, then applied closeness and betweenness centrality metrics and compared them with random graph models to assess significance. This project enhanced my understanding of network analysis, graph algorithms, and their practical application to real-world transportation data.
+- [malaga-bus-graph](https://github.com/jemonra/malaga-bus-graph) (2023) – Final project for the *Learning from Networks* course. Conducted a graph-based analysis of Málaga's public bus transport system to study frequency, speed, and node centralities. Built a large, directed multi-graph of bus lines, stops, routes, and timetables, then applied closeness and betweenness centrality metrics and compared them with random graph models to assess significance. This project enhanced my understanding of network analysis, graph algorithms, and their practical application to real-world transportation data.
+
+### During my B.Sc. in Computer Engineering
+
+- [semantics-maps-moncada](https://github.com/jemonra/semantics-maps-moncada) (2024) – Code for my B.Sc. final thesis _"Building and Exploiting Semantic Maps in Robotics Using Large Models"_. Implements an end-to-end pipeline, based on ConceptGraphs, that generates open-vocabulary semantic maps by combining Segment Anything (SAM), CLIP, Gemini, and ChatGPT to detect objects and infer their relationships. The system produces scene-graph representations validated on Replica and ScanNet datasets and was the basis for the paper [_"Modelos a gran escala para mapeo semántico en robótica móvil"_](https://revistas.udc.es/index.php/JA_CEA/article/view/10940) (_Large models for semantic mapping in mobile robotics_) presented at Jornadas de Automática 2024.
+
+### During my work in Metadata S.L.
+
+- [Metacontratas](https://v4.metacontratas.com) – Contributed as a backend developer, focusing on authentication and secure access control and on enhancing the document validation pipeline.
 
 ### During my research in MAPIR-UMA
 
